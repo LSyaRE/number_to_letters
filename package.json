@@ -1,0 +1,29 @@
+{
+  "name": "number_to_letter",
+  "version": "1.0.0",
+  "description": "converts the number to letter (20 -> twenty)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LSyaRE/number_to_letters.git"
+  },
+  "keywords": [
+    "numberletter"
+  ],
+  "author": "LSyaRe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LSyaRE/number_to_letters/issues"
+  },
+  "homepage": "https://github.com/LSyaRE/number_to_letters#readme",
+  "devDependencies": {
+    "prettier": "3.0.2"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
