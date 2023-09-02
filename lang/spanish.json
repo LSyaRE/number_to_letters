@@ -36,6 +36,7 @@
     "1000000": "millon"
   },
   "exceptions": {
+    "10" : "dieci",
     "20": "veinti",
     "100": "ciento"
   },

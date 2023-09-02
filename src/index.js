@@ -5,10 +5,10 @@ export function numberToLetter(number) {
   //   throw `The number shouldn\'t be null`;
   // }
   const numberToString = number.toString();
-  console.log(getLetter(numberToString));
+  console.log(getLetter(numberToString));  
   return getLetter(numberToString);
 }
 
 export function letterToNumber() {}
 
-numberToLetter(1426);
+numberToLetter(1120000000000000);
