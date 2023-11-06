@@ -5,7 +5,7 @@ export function numberToLetter(number) {
     if (!number && number !== 0) {
       throw `The number shouldn\'t be null`;
     }
-    
+
     if (typeof number != 'number') {
       throw `The value should be a number`;
     }
@@ -21,8 +21,8 @@ export function numberToLetter(number) {
 
 export function letterToNumber() {}
 
-const objectOfNumbers = {
-  number: 0,
-};
+// const objectOfNumbers = {
+//   number: 0,
+// };
 
-numberToLetter(objectOfNumbers);
+numberToLetter(1054);

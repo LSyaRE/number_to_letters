@@ -1,11 +1,12 @@
 {
   "name": "number_to_letter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "converts the number to letter (20 -> twenty)",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "nodemon src/index.js"
+    "test": "nodemon src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
